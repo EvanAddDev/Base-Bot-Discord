@@ -1,6 +1,6 @@
 module.exports = {
     bot: {
-        token: "OTA5MTkxNjUwNTgzMTIyMDAx.GHzWzz.c0v7_tzqqThjt81bInDLao0fPusAOpGemK7unM", //Votre TOKEN
+        token: "", //Votre TOKEN
         botid: "", // Attention à supprimer les "" et mettre l'id de votre bot
         prefix: "+",
         version: "" //version de votre BOT
