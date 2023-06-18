@@ -11,11 +11,11 @@
 
 ////////////////////////////////////////////
 
-----Tu as besoin d'aide pour lancer ce code pas de problème l'équipe GX Dev est la pour t'aider rends toi sur notre discord et viens en vocal nous t'aiderons sans problème
-----Lien GX Dev : https://discord.gg/gxdev 
+-Tu as besoin d'aide pour lancer ce code pas de problème l'équipe GX Dev est la pour t'aider rends toi sur notre discord et viens en vocal nous t'aiderons sans problème
+-Lien GX Dev : https://discord.gg/gxdev 
 ------------------------------------------------------
 ----Lien des développeurs officiel de GX Dev :
 
---- JustGod : https://github.com/JustGodWork
---- Nishikoto : https://github.com/Nishikoto
+-JustGod : https://github.com/JustGodWork
+- Nishikoto : https://github.com/Nishikoto
 ------------------------------------------------------
