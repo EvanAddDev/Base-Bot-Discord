@@ -6,18 +6,18 @@
 
 ////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-----Ce fichier fait partie du projet GX Dev.
-----Tu souhaite utiliser ce code, tu as l'autorisation seulement si tu es sur le discord officiel de GX Dev 
+----Ce fichier fait partie du projet GX Studio.
+----Tu souhaite utiliser ce code, tu as l'autorisation seulement si tu es sur le discord officiel de GX Studio 
 
 ////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-Tu as besoin d'aide pour lancer ce code pas de problème l'équipe GX Dev est la pour t'aider rends toi sur notre discord et viens en vocal nous t'aiderons sans problème
+Tu as besoin d'aide pour lancer ce code pas de problème l'équipe GX Studio est la pour t'aider rends toi sur notre discord et viens en vocal nous t'aiderons sans problème
 
-Lien GX Dev : https://discord.gg/HWQ8stkHgN
+Lien GX Studio : https://discord.gg/HWQ8stkHgN
 
 ////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
  
- Lien des développeurs officiel de GX Dev :
+ Lien des développeurs officiel de GX Studio :
 
 - JustGod : https://github.com/JustGodWork
 - Nishikoto : https://github.com/Nishikoto
